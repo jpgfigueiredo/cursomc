@@ -1,4 +1,4 @@
-package com.cruso.spring.boot.jp.domain;
+package com.cruso.spring.boot.domain;
 
 import java.io.Serializable;
 
